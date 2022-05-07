@@ -37,3 +37,8 @@ a{
     width: 580px;
     color: #FAFF00;
 }
+#align > #P_Two{
+    color: white;
+    width: 480;
+    font-size: 28;
+}
