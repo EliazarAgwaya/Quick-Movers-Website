@@ -54,3 +54,30 @@ a{
 #left{
     margin-left: 183;
 }
+.sect2{
+    padding-top: 40;
+}
+.sect2 > img{
+    height: 430;
+    float: left;
+    padding-right: 100;
+}
+.sect2 > #cut{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+    width: 300px;
+    font-size: 20;
+    padding-bottom: 150;
+}
+.sect2 > #cut > button{
+    border-radius: 0px 10px 0px 0px;
+    background-color: black;
+    border: none;
+    height: 40;
+    width: 95;
+}
+.learn{
+    color: #FAFF00;
+}
