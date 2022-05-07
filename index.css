@@ -4,3 +4,12 @@
     background-position: center center;
     height: 80vh;
 }
+.sectOne > nav > ul > li{
+    display: inline;
+    font-size: 20;
+    padding: 30;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
