@@ -13,3 +13,13 @@ a{
     color: white;
     text-decoration: none;
 }
+
+.sectOne > nav > ul > li > .first{
+    background-color:  #FAFF01;
+    border: none;
+}
+ .sectOne > nav > ul > li > .second{
+    color: #FAFF00;
+    background-color: black;
+    border: none;
+}
