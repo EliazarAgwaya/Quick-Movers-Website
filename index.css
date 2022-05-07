@@ -151,3 +151,15 @@ i{
   #WD{
     border-right: none;
   }
+  .image{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 80;
+    margin-left: 100;
+    margin-right: 0;
+    padding-top: 30;
+  }
+  .image > #push{
+    padding-right: 60;
+    padding-bottom: 30;
+  }
