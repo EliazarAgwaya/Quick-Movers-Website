@@ -142,3 +142,12 @@ i{
     font-size: 16;
     text-align: center;
   }
+  .MH{
+    background-color: whitesmoke;
+    border-radius: 0px 0px 25px 25px;
+    width: 298;
+    height: 180;
+  }
+  #WD{
+    border-right: none;
+  }
