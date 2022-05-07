@@ -81,3 +81,33 @@ a{
 .learn{
     color: #FAFF00;
 }
+span{
+    color: #FFAC12;
+}
+.links{
+    display: flex;
+    float: right;
+    margin-right: 100;
+    font-size: 18;
+}
+.links > div{
+    padding-right: 180;
+    padding-top: 0;
+    margin-bottom: 30;
+    list-style-type: none;
+    color: white;
+}
+.BKRND{
+    background-color: black;
+    height: 350px;
+}
+.grey{
+    background-color: rgb(238, 236, 236);
+}
+.move{
+    color: white;
+    padding-top: 60;
+    padding-left: 130;
+    font-size: 30;
+    padding-bottom: 0;
+}
