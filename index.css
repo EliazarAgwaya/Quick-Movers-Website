@@ -23,3 +23,17 @@ a{
     background-color: black;
     border: none;
 }
+.sectOne > nav > ul{
+    float: right;
+    padding-top: 40px;
+    padding-right: 230px;
+}
+.sectOne > #align{
+    padding-top: 70px;
+    padding-left: 120px;
+}
+#align > #P_One{
+    font-size: 55px;
+    width: 580px;
+    color: #FAFF00;
+}
