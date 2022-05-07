@@ -120,3 +120,25 @@ i{
     padding-top: ;
 
 }
+.paragraph{
+    display: flex;
+  }
+  #our{
+      margin-left: 180;
+      padding-top: 5;
+  }
+  .paragraph > p{
+  padding: 10;
+  padding-left: 20;
+  padding-right: 30;
+  border-top: 1px solid grey;
+  border-right: 1px solid gray;
+  height: 55;
+  }
+  .malto{
+    padding-left: 50;
+    padding-top: 40px;
+    padding-right: 50;
+    font-size: 16;
+    text-align: center;
+  }
