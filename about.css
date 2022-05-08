@@ -1,11 +1,14 @@
 *{
   background-col
 }
-
-nav > ul > li{
-  display: inline;
-  font-size: 20;
-  padding: 30;
+a{
+  color: white;
+  text-decoration: none;
+}
+.head > nav > ul {
+  display: flex;
+  list-style-type: none;
+  float: right;
 }
 #profile {
 	height: 80px;
