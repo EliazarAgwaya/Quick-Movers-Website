@@ -203,6 +203,12 @@ i{
   padding-top: ;
 
 }
+.work{
+  float: right;
+  background-color: #FFAC12;
+  height: 30px;
+  margin-right: 50;
+}
 .BKRND{
   background-color: black;
   height: 350px;
@@ -213,4 +219,7 @@ i{
   padding-left: 130;
   font-size: 30;
   padding-bottom: 0;
+}
+#with{
+  color: white;
 }
