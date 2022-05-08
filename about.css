@@ -209,6 +209,11 @@ i{
   height: 30px;
   margin-right: 50;
 }
+#us{
+  background-color: #FFAC12;
+  color: white;
+}
+
 .BKRND{
   background-color: black;
   height: 350px;
