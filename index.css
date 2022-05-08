@@ -163,3 +163,10 @@ i{
     padding-right: 60;
     padding-bottom: 30;
   }
+  a:link{
+      color: #FFAC12;
+
+  }
+  a:hover{
+      color: blueviolet;
+  }

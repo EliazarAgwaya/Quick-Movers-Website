@@ -213,6 +213,12 @@ i{
   background-color: #FFAC12;
   color: white;
 }
+a:link{
+  color: #FFAC12;
+}
+a:hover{
+  color: blueviolet;
+}
 
 .BKRND{
   background-color: black;
