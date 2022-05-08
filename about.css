@@ -194,6 +194,15 @@ span{
   list-style-type: none;
   color: white;
 }
+.icon{
+  padding-left: ;
+}
+i{
+  font-size:25px;color: white;
+  padding-left: 20;
+  padding-top: ;
+
+}
 .BKRND{
   background-color: black;
   height: 350px;
