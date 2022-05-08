@@ -10,6 +10,18 @@ a{
   list-style-type: none;
   float: right;
 }
+.head > nav > ul > li{
+  padding: 30;
+}
+.head{
+  background-color: black;
+  height: 250px;
+  color: white;
+}
+.modern{
+  padding: 30px;
+  padding-top: 10;
+}
 #profile {
 	height: 80px;
 	width: 80px;
