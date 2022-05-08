@@ -57,7 +57,7 @@ a{
     margin-right: 1em;
   }
   .features{
-    background-color: red;
+    background-color: silver;
     border-radius: 30px;
     width: 730;
     height: 250;
@@ -177,4 +177,31 @@ font-size: 18;
   padding-top: 50;
   padding-left: 50;
   font-size: 18;
+}
+span{
+  color: #FFAC12;
+}
+.links{
+  display: flex;
+  float: right;
+  margin-right: 100;
+  font-size: 18;
+}
+.links > div{
+  padding-right: 180;
+  padding-top: 0;
+  margin-bottom: 30;
+  list-style-type: none;
+  color: white;
+}
+.BKRND{
+  background-color: black;
+  height: 350px;
+}
+.move{
+  color: white;
+  padding-top: 60;
+  padding-left: 130;
+  font-size: 30;
+  padding-bottom: 0;
 }
